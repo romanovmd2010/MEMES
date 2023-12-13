@@ -33,4 +33,3 @@ draw.text(((width - text[2]) / 2, (height - text[3] - 10)), bottom_text, font=fo
 
 image.save("new_meme.jpg")
 #Конец!
-
